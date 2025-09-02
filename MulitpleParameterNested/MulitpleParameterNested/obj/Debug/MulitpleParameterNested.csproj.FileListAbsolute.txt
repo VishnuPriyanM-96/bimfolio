@@ -1,0 +1,3 @@
+C:\VS\PropagateParameter\MulitpleParameterPropagate\MulitpleParameterNested\MulitpleParameterNested\obj\Debug\MulitpleParameterNested.csproj.AssemblyReference.cache
+C:\VS\PropagateParameter\MulitpleParameterPropagate\MulitpleParameterNested\MulitpleParameterNested\obj\Debug\MulitpleParameterNested.csproj.CoreCompileInputs.cache
+C:\VS\PropagateParameter\MulitpleParameterPropagate\MulitpleParameterNested\MulitpleParameterNested\obj\Debug\MulitpleParameterNested_MarkupCompile.cache
